@@ -312,6 +312,27 @@
   border-color: color-mix(in srgb, rgb(10, 181, 155), transparent 0%);
   box-shadow: 0 10px 30px color-mix(in srgb, var(--default-color), transparent 92%);
 }
+
+@media (max-width: 992px) {
+  .about .profile-figure {
+    text-align: center !important;
+  }
+
+  .about .profile-figure .profile-photo {
+    width: 72%;
+  }
+
+  .about .intro-content .cta-group {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 576px) {
+  .about .profile-figure .profile-photo {
+    width: 100%;
+  }
+}
+
 .about .timeline-item {
   position: relative;
   padding-left: 26px;
