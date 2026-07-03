@@ -14,17 +14,17 @@ JavaScript
 
 ##Website Preview:
 ###Home
-![Home 1]Screenshots/Screenshot%20(146).png)
-![Home 2]Screenshots/Screenshot%20(147).png)
+![Home 1]Screenshot%20(146).png)
+![Home 2]Screenshot%20(147).png)
 ###About
-![About 1]Screenshots/Screenshot%20(148).png)
-![About 2]Screenshots/Screenshot%20(149).png)
+![About 1]Screenshot%20(148).png)
+![About 2]Screenshot%20(149).png)
 ###Gallery
-![Gallery 1]Screenshots/Screenshot%20(150).png)
-![Gallery 2]Screenshots/Screenshot%20(151).png)
+![Gallery 1]Screenshot%20(150).png)
+![Gallery 2]Screenshot%20(151).png)
 ###Services
-![Services 1]Screenshots/Screenshot%20(152).png)
-![Services 2]Screenshots/Screenshot%20(153).png)
-![Services 3]Screenshots/Screenshot%20(155).png)
+![Services 1]Screenshot%20(152).png)
+![Services 2]Screenshot%20(153).png)
+![Services 3]Screenshot%20(155).png)
 ###Contact
-![Contact ]Screenshots/Screenshot%20(154).png)
+![Contact ]Screenshot%20(154).png)
